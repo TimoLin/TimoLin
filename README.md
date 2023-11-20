@@ -10,7 +10,6 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/TimoLin/TimoLin/output/github-contribution-grid-snake.svg)
 
-![](https://github-readme-stats.vercel.app/api?username=TimoLin&theme=buefy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TimoLin&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
